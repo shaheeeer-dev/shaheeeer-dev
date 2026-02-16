@@ -16,11 +16,11 @@ My goal is to build scalable, user‑friendly applications while strengthening p
 I enjoy working on real‑world projects, learning new technologies, and exploring software design & optimization.  
 Actively seeking opportunities to grow as a developer through internships, projects, and collaborations.
 
-📫 **Email:** [shaheeramazon1@gamil.com](mailto:shaheeramazon1@gamil.com)  
-🌐 **Portfolio:** https://shaheer‑dev.netlify.app/
+**Email:** [shaheeramazon1@gamil.com](mailto:shaheeramazon1@gamil.com)  
+**Portfolio:** https://shaheer‑dev.netlify.app/
 
 
-## 🔗 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaheer-dev/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shaheeeer-dev/)

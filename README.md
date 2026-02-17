@@ -43,9 +43,9 @@ Actively seeking opportunities to grow as a developer through internships, proje
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaheeeer-dev&show_icons=true&theme=radical&count_private=true" alt="Shaheer's GitHub Stats" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheeeer-dev&theme=dark" alt="GitHub Streak" />
+</div>
 
 
 

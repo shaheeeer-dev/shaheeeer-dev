@@ -1,7 +1,7 @@
-# Muhammad Shaheer 👋
+# Muhammad Shaheer 
 
 <p align="center"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0CFFFB&background=00000000&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Full-Stack+Dev+Aspirant;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=D8863B&background=00000000&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Full-Stack+Dev+Aspirant;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
 </p>
 <br>
 <p align="center">

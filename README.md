@@ -17,7 +17,6 @@ I enjoy working on real‑world projects, learning new technologies, and explori
 Actively seeking opportunities to grow as a developer through internships, projects, and collaborations.
 
 **Email:** [shaheeramazon1@gamil.com](mailto:shaheeramazon1@gamil.com)  
-**Portfolio:** https://shaheer‑dev.netlify.app/
 
 
 ## Connect With Me

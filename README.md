@@ -26,8 +26,6 @@ Currently seeking a **Software Engineer internship** where I can contribute to r
 
 ## Connect With Me
 
-## Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/shaheer-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D8863B" alt="LinkedIn" />
@@ -39,8 +37,8 @@ Currently seeking a **Software Engineer internship** where I can contribute to r
     <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=D8863B" alt="GitHub" />
   </a>
 </p>
----
 
+<hr>
 ## Tech Stack
 
 <p align="left">

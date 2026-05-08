@@ -35,9 +35,6 @@ Currently seeking a **Software Engineer internship** where I can contribute to r
   <a href="https://leetcode.com/u/shaheeeer-dev/">
     <img src="https://img.shields.io/badge/LeetCode-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=D8863B" alt="LeetCode" />
   </a>&nbsp;
-  <a href="https://shaheer-dev.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badgee&logo=google-chrome&logoColor=D8863B" alt="Portfolio" />
-  </a>&nbsp;
   <a href="https://github.com/shaheeeer-dev">
     <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=D8863B" alt="GitHub" />
   </a>

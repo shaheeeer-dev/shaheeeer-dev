@@ -14,15 +14,11 @@
 
 Software Engineering undergraduate at COMSATS University Islamabad (4th semester · CGPA 3.36).
 
-I don't just write code — I build and ship systems. I enjoy working close to the backend: designing APIs, connecting databases, and deploying things that actually run in the cloud.
+I enjoy working close to the backend — designing APIs, connecting databases, and deploying things that actually run in production. I like understanding how systems work, not just making them work.
 
-Two of my projects are live and deployed:
-- **Kaleido** — full-stack Java desktop social media app with cloud MySQL, JWT auth, Cloudinary CDN, and 7 core modules
-- **Doodle** — mini search engine with an inverted index, REST API, Docker deployment, and sub-10ms search · [doodle-find.netlify.app](https://doodle-find.netlify.app)
+I've solved **100+ LeetCode problems** and hold a **50-day streak badge**. DSA isn't just interview prep for me, it's a habit.
 
-I've solved **100+ LeetCode problems** and hold a **50-day streak badge** — and I'm still going.
-
-Currently seeking a **Software Engineer internship** where I can contribute to real products and grow through meaningful work.
+Currently seeking a **Software Engineer internship** where I can contribute to real products and grow alongside experienced engineers.
 
 📫 shaheeramazon1@gmail.com · [shaheer-dev.netlify.app](https://shaheer-dev.netlify.app)
 
@@ -30,46 +26,40 @@ Currently seeking a **Software Engineer internship** where I can contribute to r
 
 ## Connect With Me
 
+## Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/shaheer-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D8863B" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="https://leetcode.com/u/shaheeeer-dev/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+    <img src="https://img.shields.io/badge/LeetCode-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=D8863B" alt="LeetCode" />
+  </a>&nbsp;
   <a href="https://shaheer-dev.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badgee&logo=google-chrome&logoColor=D8863B" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://github.com/shaheeeer-dev">
+    <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=D8863B" alt="GitHub" />
   </a>
 </p>
-
 ---
 
 ## Tech Stack
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Databases & Backend**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-
-**Tools & Deployment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,docker,git,github,netlify&theme=dark&perline=9" />
+  </a>
+</p>
 
 **Currently Learning**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  </a>
+</p>
+
 
 ---
 

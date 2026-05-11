@@ -39,6 +39,7 @@ Currently seeking a **Software Engineer internship** where I can contribute to r
 </p>
 
 <hr>
+
 ## Tech Stack
 
 <p align="left">

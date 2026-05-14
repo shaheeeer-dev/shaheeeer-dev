@@ -8,8 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=shaheeeer-dev&style=flat-square&color=orange" alt="Profile Views" />
 </p>
 
----
-
 ## About Me
 
 Software Engineering undergraduate at COMSATS University Islamabad (4th semester · CGPA 3.36).
@@ -22,7 +20,7 @@ Currently seeking a **Software Engineer internship** where I can contribute to r
 
 📫 shaheeramazon1@gmail.com · [shaheer-dev.netlify.app](https://shaheer-dev.netlify.app)
 
----
+<br>
 
 ## Connect With Me
 
@@ -37,8 +35,7 @@ Currently seeking a **Software Engineer internship** where I can contribute to r
     <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=D8863B" alt="GitHub" />
   </a>
 </p>
-
-<hr>
+<br>
 
 ## Tech Stack
 
@@ -56,8 +53,7 @@ Currently seeking a **Software Engineer internship** where I can contribute to r
   </a>
 </p>
 
-
----
+<br>
 
 ## GitHub Stats
 
@@ -65,7 +61,7 @@ Currently seeking a **Software Engineer internship** where I can contribute to r
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheeeer-dev&theme=dark" alt="GitHub Streak" />
 </div>
 
----
+<br>
 
 ## LeetCode Stats
 
